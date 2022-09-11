@@ -7,3 +7,6 @@
 
 4. npm i -D eslint-config-airbnb-typescript
    ( https://www.npmjs.com/package/eslint-config-airbnb-typescript )
+
+5. npm i -D @svgr/webpack
+   ( https://frontend-digest.com/how-to-import-svgs-into-nextjs-8ec6100e613f )
